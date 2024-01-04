@@ -1,0 +1,7 @@
+accelerate==0.25.0
+diffusers==0.25.0
+huggingface-hub==0.20.1
+PyYAML==6.0
+torch==2.1.2
+transformers==4.36.2
+omegaconf==2.3.0

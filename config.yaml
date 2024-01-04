@@ -1,0 +1,8 @@
+prompt: "female cowboy, riding on a horse, sunset, (realistic), (high quality)"
+negative_prompt: "watermark"
+steps: 30
+scale: 5.0
+seed: null
+height: 768
+width: 512
+sampler: "dpm"
